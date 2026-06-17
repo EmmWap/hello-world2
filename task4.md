@@ -1,0 +1,3 @@
+a short written explanation of your workflow. 
+
+I have created a new branch called feature-branch' and then added the code from main to the feature branch. Once the code had been updated on the feature branch, I committed the change with a note about the update 'add summary report function'. I then went back to main and merged it with feature branch to update main with the changes made in feature branch. I have then created a tag to give it a version name.
