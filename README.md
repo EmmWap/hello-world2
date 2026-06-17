@@ -6,3 +6,6 @@ A - Version control saves changes over time, saving every edit that was made wit
 Q- Explain ways to use version control in a small Python project (e.g., commit often, meaningful messages, branches for features, pull requests for review). (AC1.2) 
 
 A- In a Python project, you could get each developer to work on specific areas of the code and use branches to do this. The should commit their work after each important step they do e.g. write a function, fix a bug etc. They should make sure to write a suitable message with each commit that clearly states the change that was made for other developers to understand quickly (e.g. instead of writing 'function added', write 'function added to calculate the total cost'). Once a section is completed a developer can send a pull request for their work to be reviewed and then merged with the main project. 
+
+
+Copied to word doc
