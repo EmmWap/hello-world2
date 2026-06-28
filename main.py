@@ -16,3 +16,5 @@ total = calculate_total(price, quantity)
 
 display_total(total)
 print(generate_summary(total))
+
+#Comment to change main for example of Task 6 staying in sync
